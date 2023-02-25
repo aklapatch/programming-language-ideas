@@ -1,4 +1,10 @@
 # Programming Language Ideas
+
+### Philosophy and values (Tentative)
+- Orthogonal features
+- Simplicity where reasonable
+- Try to make illegal states irrepresentable.
+
 ### Features:
 - Types (stricter than C, looser than Rust)
 - algebraic effects
